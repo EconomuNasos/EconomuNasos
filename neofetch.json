@@ -1,6 +1,8 @@
 {
-  "imageScale": 1,
-  "coloredImage": false,
+  "coloredImage": true,
+  "imageScale": 2,
+  "imageOffsetX": "0%",
+  "imageOffsetY": "-10%",
   "backgroundColor": "#ffffff, #0d1117",
   "separatorColor": "#8c959f, #484f58",
   "sections": [
