@@ -48,35 +48,6 @@ EconomuNasos@github:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api?username=EconomuNasos&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  alt="GitHub Statistics"
-/>
-
-<img
-  height="165"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=EconomuNasos&layout=compact&theme=github_dark&hide_border=true"
-  alt="Most Used Languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=EconomuNasos&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 Building, learning and improving one commit at a time.
